@@ -12,8 +12,6 @@ Currently working at Moneybounce. Open to side projects, feel free to contact me
 
 ## $ You can reach me there
 
-Traditionals and unsecures ways to connect with me:
-
 | Mean        | Adresse                                           |
 | :----:      |    :----:                                         |
 | Mail        | antoine.oddoz@protonmail.com                      |
