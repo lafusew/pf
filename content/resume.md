@@ -2,7 +2,6 @@
 title = "Resume"
 date = "2000-05-07"
 type = "index"
-cover = "assets/img/header.png"
 description = " Hi, I'm Antoine Oddoz, here is my resume, written with <3, statically served to the world wide web!"
 +++
 
@@ -16,7 +15,7 @@ I'm interested in distributed networking and communications, microservices archi
 
 ## $ Experiences
 
-It's been almost 2 years since I started working as developper. I started as a frontend developper but my backend interest quickly made me trying to go fullstack.
+It's been almost 2 years since I started working as a developper. I started as a frontend developper but my interest in backend quickly made me trying to go fullstack.
 
 | Year        | Company                               | Occupied Job                                |
 | :----:      |    :----:                             |               :----:                        |
