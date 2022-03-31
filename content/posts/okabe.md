@@ -1,8 +1,8 @@
 +++
-title = "WIP.."
+title = "Rintaro Okabe"
 date = "2022-02-22"
 author = "oddoz"
-description = "I just finished my folio. Give me a second and I'll write presentations articles for some of my side project and work. Click here for an Okabe quote."
+description = "This is my first article. You should definitely click here for an Okabe quote."
 +++
 
 # Steins;Gate
