@@ -7,15 +7,15 @@ description = " Hi, I'm Antoine Oddoz, here is my resume, written with <3, stati
 
 ## $ Me
 
-Hey! I'm a french guy from Nice, who's currently living in **Paris**. I'm working at **Moneybounce**, as an apprentice fullstack developper.
+Hey, I'm a French guy from Nice, who currently lives in **Paris**. I work at **Moneybounce**, as an  fullstack developer apprentice.
 
-On a daily basis I'm working with **Typescript** in **Nodejs** environements, but I'm currently learning and using **Go** on my end to build faster services and CLI tools. 
+On a daily basis, I work with **Typescript** in **Nodejs** environments, but I'm learning and using Go on my side to build faster services and CLI tools.
 
-I'm interested in distributed networking and communications, microservices architectures and overall backend development. [*Learn More*](#-more)
+I'm interested in distributed networks and communications, microservices architectures and overall backend development. [*Learn More*](#-more)
 
 ## $ Experiences
 
-It's been almost 2 years since I started working as a developper. I started as a frontend developper but my interest in backend quickly made me trying to go fullstack.
+It's been almost two years since I started working as a developer. I started as a frontend developer but my interest in backend quickly pushed me to try to move to fullstack.
 
 | Year        | Company                               | Occupied Job                                |
 | :----:      |    :----:                             |               :----:                        |
@@ -24,8 +24,8 @@ It's been almost 2 years since I started working as a developper. I started as a
 
 ## $ Education
 
-Most of my developper knowledge is self taught but studies helped me (and still do) finding my way, finding how to work in team and how to fix something by myself.
-I'll graduate from Gobelins in June 2022.
+Most of my development knowledge is self-taught but studies helped me (and still help me) to find my way, to find how to work in a team and how to fix something by myself.
+I will graduate from Gobelins in June 2022.
 
 | Year        | Degree & Establishement                                     |                            
 | :----:      |    :----:                                                   |
@@ -36,7 +36,7 @@ I'll graduate from Gobelins in June 2022.
 
 #### $ Frontend
 
-I started by learning the basics of web when I joined Gobelins. And I specialized a bit around application developpment during my first year at Zar.gg.
+I started by learning the basics of the web when I joined Gobelins. And I specialized a bit in application development during my first year at Zar.gg.
 
 | Tech                                       | Stuff I built with it:                                                                                                                       |
 | :----:                                     |    :---                                                                                                                                      |
@@ -46,14 +46,15 @@ I started by learning the basics of web when I joined Gobelins. And I specialize
 
 #### $ Backend
 
-Today I'm still using Typescript as a primary language, but more oftenly in Nodejs env rather than in browsers. And working server side had me learning severals techs along the way.
+Today, I still use Typescript as my main language, but mostly in Nodejs environement rather than in browsers. And working on the server side has allowed me to learn several skills along the way.
 
-Here's a list of the main techs/framework I used:
+Here's a list of the main tools and frameworks I've used:
 
 | Tech                                       | Stuff I built with it:                                                                                                                           |
 | :----:                                     |    :---                                                                                                                                          |
 | ![Node.js](/assets/logo/node.png)          | Node.js environment and API. I Built many REST/GraphQL Apis connected to severals datasource, serving and storing content.                       |
-| ![Nest](/assets/logo/nest.svg)| At Moneybounce, as the team was young and inexperienced I chose the opiniated and typed http framework Nest.js. the stricness of the MVC model helped us maintaining such a large system.|
+| ![Golang](/assets/logo/go.png)             | A wip CLI password manager [gokeep](https://github.com/lafusew/gokeep), gRPC server. And currently working with go-libp2p                        |
+| ![Nest](/assets/logo/nest.svg)             | At Moneybounce, as the team was young and inexperienced I chose the opiniated and typed http framework Nest.js. the stricness of the MVC model helped us maintaining such a large system.|
 | ![MySQL/Postgre](/assets/logo/postgre.svg) | Designing and implementing Entities Relationship Diagrams. Either using pure SQL or with the help of Typescript ORMs like Sequelize and TypeORM. |
 | ![Docker](/assets/logo/docker.svg)         | Basic knowledge about docker containers. Setup of a simple Docker container with a Nodejs + Postgre + Mongo env. Differents dev & production configs using docker-compose.|
 
@@ -61,24 +62,26 @@ Here's a list of the main techs/framework I used:
 
 #### $ School 
 
-I started by learning front-end development and UI/UX Design at Gobelins. I'm graduating for a Licence of Interactive Developper at the end of June 22.
-Even if I’m giving more and more interest into backend and services development, my studies continue to learn me team work, project management and all thoses soft skills. As well as strengthen my skills about frontend dev and sharpen my eye about UX design.
+I started by learning front-end development and UI/UX design at Gobelins. I validate a Bachelor of Interactive Developer at the end of June 22.
+Even if I'm more and more interested in backend development and services, my studies continue to teach me teamwork, project management and all these skills.
+
+I also strengthened my front-end development skills and sharpened my eye for UX design.
 
 #### $ Zar.gg
 
-For my 1st experience as a developper, I developped interactives components for an Electron-based League of legends companion app. I also helped the lead designer for some UX/UI questions as well as thinking about product features.
+For my first experience as a developer, I developed interactive components for an Electron-based League of Legends companion app. I also helped the lead designer with some UX/UI issues as well as thinking about product features.
 
-It was a small and great team that helped me a lot learning about React first, but especially about thoroughness. Thanks to those guys I started to question myself about how I did it, and could I have do it in a cleaner, more efficient way.
+It was a great little team that helped me learn a lot about React first, but mostly about rigor. Thanks to them, I started asking myself questions about how I had been doing it and whether I could do it cleaner and more efficiently.
 
 #### $ Moneybounce
 
-Today I’m in an other small company that I joined before the 1st fund raising. Back in time I was the only javascript developper and we built the MVP that helped raising fund.
+Today, I'm at another small company that I joined before the first fundraiser. At the time, I was the only javascript developer and we built the MVP that raised the money.
 
-Now a Senior developper has taken the lead, and I’m working almost exclusively on backend development. Using Node.js, PostgreSQL daily to built services and integrates external services apis.
+Now, a senior developer has taken the lead, and I work almost exclusively on the backend development. I use Node.js, PostgreSQL daily to build services and integrate external apis services.
 
 #### $ About me
 
-On my end, I'm learning Go along as working with Node.js and Typescript. On my free I like to try out and learn about decentralized technologies as IPFS, libp2p and Matrix.
+On my side, I'm learning Go and working with Node.js and Typescript. In my free time, I like to try and learn decentralized technologies like IPFS, libp2p and Matrix.
 
-I also like playing Super Smash Bros Melee and League of Legends.  
-I consider myself as a chill dude that has nothing to do in non-chill city like Paris :/ but I still enjoy my time in here.
+I also like to play Super Smash Bros Melee and League of Legends.  
+I consider myself a cool guy who has nothing to do in an uncool city like Paris :/ but I still enjoy my time here.

@@ -9,5 +9,5 @@ description = "I just finished my folio. Give me a second and I'll write present
 
 ![Okabe](/assets/img/okabe.gif)
 
-> "What king of mad scientist worries about not getting enough vegetables?"
+> "What kind of mad scientist worries about not getting enough vegetables?"
 - Rintaro Okabe. [Steins;gate](https://en.wikipedia.org/wiki/Steins;Gate)
