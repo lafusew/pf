@@ -58,6 +58,15 @@ Here's a list of the main tools and frameworks I've used:
 | ![MySQL/Postgre](/assets/logo/postgre.svg) | Designing and implementing Entities Relationship Diagrams. Either using pure SQL or with the help of Typescript ORMs like Sequelize and TypeORM. |
 | ![Docker](/assets/logo/docker.svg)         | Basic knowledge about docker containers. Setup of a simple Docker container with a Nodejs + Postgre + Mongo env. Different dev & production configs using docker-compose.|
 
+#### $ Ops
+
+At Moneybounce I spent a lot of time working on devOps stuff. I learnt everything by myself on this topic. 
+
+| Tech                                       | Stuff I built with it:                                                                                                                           |
+| :----:                                     |    :---                                                                                                                                          |
+| ![GCP](/assets/logo/gcp.png)          | GCP: Microservices architecture using Cloud Run, Cloud Functions, App Engine, Cloud Storage and Serveless VPC Connectors to connect to Cloud SQL instances.|
+
+
 ## $ More...
 
 #### $ School 
