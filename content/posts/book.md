@@ -77,6 +77,11 @@ Ants primarily use pheromones to navigate their environment. I implemented a **p
 
 I really enjoy simulation where the **sum of basic & individual action creates a complex global system**. I also built a boids simulation that follow the same pattern.
 
+
+| Library & tools | Link                                                     |
+| :----:          |    :----:                                                |
+| Canvas API      | https://developer.mozilla.org/fr/docs/Web/API/Canvas_API |
+
 You can find the repository here: https://github.com/lafusew/browser-ants-simulation.
 
 #### Microservice PUB/SUB
@@ -88,6 +93,13 @@ We had to build a system that would continuously treat images before sending the
 The image is uploaded from our client app to the **storage bucket**. I've configured this storage bucket to trigger a "Golang Google Cloud Function" when a new document is uploaded. This Cloud Function is a simple program written in Go that treats the image before uploading it to another bucket where documents have already been processed. On this second bucket, a Pub/Sub Subscription has been created that pushes documents' metadata to our **App Engine** service that is responsible for the communication with the given external service, which this time is written in **Typescript** and running on **Nodejs**. 
 
 For the client app, all you have to do is to upload an image to a **cloud storage bucket**. Because the services are **asychronous**, you don't have to worry about **responses** from them. An **event** will be triggered **automatically**, so you can see on the app that your image has been completely processed and accepted.
+
+| Library & tools          | Link                               |
+| :----:                   |    :----:                          |
+| Google Cloud Pub Sub     | https://cloud.google.com/pubsub    |
+| Google Cloud Storage     | https://cloud.google.com/storage   |
+| Google Cloud Functions   | https://cloud.google.com/functions |
+
 
 #### Gobelins and 42 Gamejam: 2072
 
