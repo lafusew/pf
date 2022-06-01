@@ -105,8 +105,7 @@ For the client app, all you have to do is to upload an image to a **cloud storag
 
 ![2072 BTC Controller](/assets/img/btc_playtest.gif)
 
-I joined the Vivatech gamejam that was in partnership with 42 for developers and Gobelins for designers. I joined as a developer with 2 friends from 42's school. I already wrote an article about this gamejam that you can find [here](/posts/2072).
-
+I joined the Vivatech gamejam that was in partnership with 42 for developers and Gobelins for designers. I joined as a developer with 2 friends from 42's school. I already wrote an article about this gamejam that you can find [here](/posts/2072). In this article I explain in depth how we came up with this little game after 3days of work!
 
 ## What's next ?
 
