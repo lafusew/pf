@@ -24,5 +24,6 @@ Private and E2E Encrypted ways to contact me:
 | Mean                               | Adresse                                           |
 | :----:                             |    :----:                                         |
 | [Matrix.org](https://matrix.org/)  | @lafusew:matrix.org                               |
-| [Session](https://getsession.org/) | public key: 05d1de86248e255728d499ffbf9a40056ffb07d3b9a5f5eded972935dfd3da782c |
+| [Session](https://getsession.org/) | 05d1de86248e 255728d499ff bf9a40056ffb 07d3b9a5f5ed ed972935dfd3da782c |
 
+White spaces **need to be removed** on my **Session ID** (Hugo's markdown renderer doesn't support custom css to let word breaks). Sorry for the inconvenience.
